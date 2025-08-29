@@ -146,7 +146,7 @@ API_HASH=abcdef1234567890abcdef1234567890
 BOT_TOKEN=YOUR_BOT_TOKEN
 OWNER_ID=123456789
 MONGO_DB_URI=mongodb+srv://username:password@cluster.mongodb.net/dbname
-API_KEY=YOUR_API_KEY  # Get from @DeadlineApiBot
+API_KEY=YOUR_API_KEY  # Get from @ApixhubBot
 STRING_SESSION=YOUR_STRING_SESSION
 ```
 
