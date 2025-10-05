@@ -15,8 +15,9 @@ from typing import Union
 from pyrogram.types import Message
 from pyrogram.enums import MessageEntityType
 from youtubesearchpython.__future__ import VideosSearch
-from ..utils.database import is_on_off
-from ..utils.formatters import time_to_seconds
+
+from DeadlineTech.utils.database import is_on_off
+from DeadlineTech.utils.formatters import time_to_seconds
 
 
 async def fetch_stream_url(link: str, video: bool = False) -> str | None:
@@ -591,4 +592,5 @@ class YouTubeAPI:
             downloaded_file = await loop.run_in_executor(None, audio_dl)
             
         return downloaded_file, direct
+
 
