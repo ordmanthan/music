@@ -164,7 +164,7 @@ STRING_SESSION=YOUR_STRING_SESSION
 
 - Base Framework: [Anon Music](https://github.com/AnonymousX1025/AnonXMusic)
 - Enhanced by: [Team Arc](https://telegram.me/ArcUpdates)
-- Lead Dev: [𝘿𝙖𝙢𝙞�❤‍🩹](https://telegram.me/Its_Damiann) 
+- Lead Dev: [𝘿𝙖𝙢𝙞𝙖𝙣❤‍🩹](https://telegram.me/Its_Damiann) 
 
 ---
 
