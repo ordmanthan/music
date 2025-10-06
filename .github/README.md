@@ -3,7 +3,7 @@ Arc Music Bot
 </h1>
 
 <p align="center">
-    <img src="https://files.catbox.moe/lxn8yz.jpg" width="400">
+    <img src="https://files.catbox.moe/4lkow5.jpg" width="400">
 </p>
 
 <p align="center">
