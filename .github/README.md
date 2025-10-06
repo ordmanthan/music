@@ -25,7 +25,7 @@ Arc Music Bot
 
 ## 🎧 Advanced Telegram Group Music Bot
 
-> A modern Telegram bot for high-quality group music streaming using PyTgCalls and DeadlineTech’s powerful Music API key.
+> A modern Telegram bot for high-quality group music streaming using PyTgCalls and Arc Bots powerful Music API key.
 
 ---
 
@@ -43,7 +43,7 @@ Arc Music Bot
 
 ## 🔑 What is the API Key?
 
-> A **Music API Key** by DeadlineTech gives you powerful music fetching, blazing-fast downloads, rich metadata, and seamless YouTube support.  
+> A **Music API Key** by Arc Bots gives you powerful music fetching, blazing-fast downloads, rich metadata, and seamless YouTube support.  
 > Just buy it once and enjoy the best streaming experience on your Telegram groups!
 
 - 🔗 [Buy API Key](https://deadlinetech.site)
