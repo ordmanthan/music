@@ -47,7 +47,7 @@ DeadlineTech Music
 > Just buy it once and enjoy the best streaming experience on your Telegram groups!
 
 - 🔗 [Buy API Key](https://deadlinetech.site)
-- 💬 [Ask on Telegram](https://t.me/DeadlineTechOwner)
+- 💬 [Get Your Free Trial Api Key](https://t.me/ApixhubBot)
 
 ---
 
@@ -154,17 +154,17 @@ STRING_SESSION=YOUR_STRING_SESSION
 
 ## 🤝 Support & Community
 
-- 📢 [Announcements Channel](https://t.me/DeadlineTechTeam)
-- 💬 [Support Group](https://t.me/DeadlineTechSupport)
-- 🧑‍💻 [Developer Contact](https://t.me/DeadlineTechOwner)
+- 📢 [Announcements Channel](https://t.me/ArcUpdates)
+- 💬 [Support Group](https://t.me/ArcChatz)
+- 🧑‍💻 [Developer Contact](https://t.me/Its_Damiann)
 
 ---
 
 ## ⚡ Credits
 
 - Base Framework: [Anon Music](https://github.com/AnonymousX1025/AnonXMusic)
-- Enhanced by: [Team DeadlineTech](https://telegram.me/DeadlineTechTeam)
-- Lead Dev: [@DeadlineTechOwner](https://telegram.me/DeadlineTechOwner) 
+- Enhanced by: [Team Arc](https://telegram.me/ArcUpdates)
+- Lead Dev: [Damian](https://telegram.me/Its_Damiann) 
 
 ---
 
