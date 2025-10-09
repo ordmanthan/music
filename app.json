@@ -37,6 +37,11 @@
         "value": "",
         "required": true
       },
+      "API_KEY": {
+        "description": "Get your Music Api key from @ApixhubBot.",
+        "value": "",
+        "required": false
+      },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
         "value": "",
